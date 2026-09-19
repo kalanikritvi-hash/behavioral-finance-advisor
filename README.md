@@ -1,8 +1,7 @@
-# Financial Bias Profiler
+# Financial Bias Simulator
 
-An interactive web app that profiles your financial cognitive biases and
-gives personalized, AI-powered advice based on your real financial
-situation and the current economic environment.
+A React tool, in progress, that runs you through 8 financial decision
+scenarios to identify biases like loss aversion and overconfidence.
 
 ## How it works
 1. Answer a short set of questions about how you make money decisions
